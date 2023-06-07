@@ -1,0 +1,2 @@
+# someblogs
+ record some blogs
